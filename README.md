@@ -1,10 +1,3 @@
 # GraphQL App
 
-This is a simple GraphQL server running on a Raspberry Pi using Apollo Server and Express.
-
-## Installation
-
-To install the necessary dependencies, run:
-
-```bash
-npm install
+This is a simple GraphQL server running on a Raspberry Pi using Apollo Server and Express
